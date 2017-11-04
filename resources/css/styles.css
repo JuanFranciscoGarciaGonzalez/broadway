@@ -39,3 +39,8 @@ body {
   font-weight: bold;
   color: white;
 }
+#copyright {
+  font-family:helvetica;
+  font-size: 11px;
+  color:white;
+}
