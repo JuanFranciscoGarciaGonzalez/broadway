@@ -10,9 +10,15 @@ body {
 }
 #header {
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+  background-position: center;
 }
 .navlinks {
   font-family: helvetica;
   font-size: 18px;
   color:white;
+}
+#ourprocess {
+  font-family:helvetica;
+  font-size:32px;
+  font-weight:bold;
 }
