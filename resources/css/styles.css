@@ -44,3 +44,7 @@ body {
   font-size: 11px;
   color:white;
 }
+#footer {
+  text-align: left;
+  background-color: dimgray;
+}
